@@ -42,8 +42,8 @@ setup(
 
     name="bvl-api",
     url="https://github.com/alanverresen/bvl-api",
-    version="0.0.1",
-    python_requires=">=3.7",
+    version="0.0.2",
+    python_requires=">=3.6",
     license="MIT",
 
     description="Used to retrieve data about Flemish basketball competitions "

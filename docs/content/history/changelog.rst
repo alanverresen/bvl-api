@@ -29,6 +29,14 @@ The following changes are planned to happen in the future:
 - Nothing planned at the moment.
 
 
+0.0.2 - 2020-06-22
+------------------
+
+ADDED
+~~~~~
+- Implemented functionality to call API.
+
+
 0.0.1 - 2020-06-22
 ------------------
 
