@@ -1,6 +1,6 @@
-========
-REJECTED
-========
+=================
+Rejected Features
+=================
 
 This document contains a list of all features and changes to the project that
 have been rejected in regards to the foreseeable future.
