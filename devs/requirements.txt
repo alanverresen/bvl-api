@@ -1,0 +1,26 @@
+# ----------------------------------------------------------------------------
+# devs/requirements.txt
+# ----------------------------------------------------------------------------
+# Contains list of developer tools that should be installed.
+#
+# The testing tool 'tox' installs packages/tools locally in disposable virtual
+# environments using only list tox and packages used in test code.
+# ----------------------------------------------------------------------------
+
+# package used for publishing
+twine
+
+# automated testing in different environments
+tox
+
+# unit testing
+pytest
+
+# tool used for linting
+flake8
+
+# tool used to measure code coverage
+coverage
+
+# tool for building documentation
+sphinx

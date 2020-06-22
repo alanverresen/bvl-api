@@ -1,0 +1,38 @@
+=========
+CHANGELOG
+=========
+
+All notable changes to this project will be documented in this file.
+The format is heavily based on
+`Keep a Changelog <https://keepachangelog.com/en/1.0.0/>`_,
+and this project adheres to
+`Semantic Versioning <https://semver.org/spec/v2.0.0.html>`_.
+
+
+Types of Changes
+----------------
+
+- **PROJECT** for any changes to the project.
+- **ADDED** for new features.
+- **CHANGED** for changes in existing functionality.
+- **DEPRECATED** for soon-to-be removed features.
+- **REMOVED** for now removed features.
+- **FIXED** for any bug fixes.
+- **SECURITY** in case of vulnerabilities.
+
+
+Unreleased
+----------
+
+The following changes are planned to happen in the future:
+
+- Nothing planned at the moment.
+
+
+0.0.1 - 2020-06-22
+------------------
+
+PROJECT
+~~~~~~~
+- New project was started on this date.
+- Published placeholder on PyPI.

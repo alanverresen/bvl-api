@@ -1,0 +1,14 @@
+# ignore every hidden file, except this one
+.*
+!.gitignore
+
+# ignore the files with the following file extensions
+*.pyc
+
+# also ignore the following files related to package distribution
+build/
+docs/_build/
+dist/
+logs/
+*.egg-info/
+MANIFEST
