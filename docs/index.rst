@@ -2,16 +2,16 @@
    13:07:33 2019. You can adapt this file completely to your liking, but it
    should at least contain the root `toctree` directive.
 
-Welcome to MyPackage's documentation!
+Welcome to bvl-api's documentation!
 ========================================
 
-MyPackage is ...
+This is a Python package used to retrieve data about Flemish basketball
+competitions using the public API of Basketbal Vlaanderen.
 
 .. toctree::
    :maxdepth: 1
    :caption: User Guide:
 
-   content/user_guide/introduction
    content/user_guide/installation
    content/user_guide/getting_started
 
