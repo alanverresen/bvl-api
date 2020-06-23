@@ -1,0 +1,153 @@
+[
+    {
+        "guid":"BVBL1432HSE  1",
+        "naam":"\"Au Pingouin\" Basket Blankenberge HSE A",
+        "poules":[
+            {
+                "naam":"Beker van Vlaanderen Heren Poule K",
+                "sort":"B01BLAHSEPK",
+                "teams":[
+                    {
+                        "naam":"Kortrijk Spurs HSE B",
+                        "categorie":"Heren Senioren",
+                        "organisationGUID":null,
+                        "rangNr":"  1",
+                        "wedAant":"4",
+                        "wedPunt":"10",
+                        "ptVoor":"281",
+                        "ptTegen":"262",
+                        "opmerk":"",
+                        "wedWinst":"3",
+                        "wedGelijk":"0",
+                        "wedVerloren":"1",
+                        "wedNOKD":"0",
+                        "shirtKleur":null,
+                        "shirtReserve":null,
+                        "speelNivo":0,
+                        "poules":[
+
+                        ],
+                        "spelersLijst":null,
+                        "tVlijst":null,
+                        "key":"3BVBL1127HSE  2",
+                        "type":3,
+                        "guid":"BVBL1127HSE  2"
+                    },
+                    {
+                        "naam":"\"Au Pingouin\" Basket Blankenberge HSE A",
+                        "categorie":"Heren Senioren",
+                        "organisationGUID":null,
+                        "rangNr":"  2",
+                        "wedAant":"4",
+                        "wedPunt":"10",
+                        "ptVoor":"303",
+                        "ptTegen":"264",
+                        "opmerk":"",
+                        "wedWinst":"3",
+                        "wedGelijk":"0",
+                        "wedVerloren":"1",
+                        "wedNOKD":"0",
+                        "shirtKleur":null,
+                        "shirtReserve":null,
+                        "speelNivo":0,
+                        "poules":[
+
+                        ],
+                        "spelersLijst":null,
+                        "tVlijst":null,
+                        "key":"3BVBL1432HSE  1",
+                        "type":3,
+                        "guid":"BVBL1432HSE  1"
+                    },
+                    {
+                        "naam":"L.S.V. Basket Landen HSE A",
+                        "categorie":"Heren Senioren",
+                        "organisationGUID":null,
+                        "rangNr":"  3",
+                        "wedAant":"4",
+                        "wedPunt":"8",
+                        "ptVoor":"295",
+                        "ptTegen":"316",
+                        "opmerk":"",
+                        "wedWinst":"2",
+                        "wedGelijk":"0",
+                        "wedVerloren":"2",
+                        "wedNOKD":"0",
+                        "shirtKleur":null,
+                        "shirtReserve":null,
+                        "speelNivo":0,
+                        "poules":[
+
+                        ],
+                        "spelersLijst":null,
+                        "tVlijst":null,
+                        "key":"3BVBL1163HSE  1",
+                        "type":3,
+                        "guid":"BVBL1163HSE  1"
+                    },
+                    {
+                        "naam":"BC Cobras Schoten-Brasschaat HSE A",
+                        "categorie":"Heren Senioren",
+                        "organisationGUID":null,
+                        "rangNr":"  4",
+                        "wedAant":"4",
+                        "wedPunt":"6",
+                        "ptVoor":"249",
+                        "ptTegen":"286",
+                        "opmerk":"",
+                        "wedWinst":"1",
+                        "wedGelijk":"0",
+                        "wedVerloren":"3",
+                        "wedNOKD":"0",
+                        "shirtKleur":null,
+                        "shirtReserve":null,
+                        "speelNivo":0,
+                        "poules":[
+
+                        ],
+                        "spelersLijst":null,
+                        "tVlijst":null,
+                        "key":"3BVBL1277HSE  1",
+                        "type":3,
+                        "guid":"BVBL1277HSE  1"
+                    },
+                    {
+                        "naam":"Horticult Kontich Wolves HSE B",
+                        "categorie":"Heren Senioren",
+                        "organisationGUID":null,
+                        "rangNr":"  5",
+                        "wedAant":"4",
+                        "wedPunt":"6",
+                        "ptVoor":"317",
+                        "ptTegen":"317",
+                        "opmerk":"",
+                        "wedWinst":"1",
+                        "wedGelijk":"0",
+                        "wedVerloren":"3",
+                        "wedNOKD":"0",
+                        "shirtKleur":null,
+                        "shirtReserve":null,
+                        "speelNivo":0,
+                        "poules":[
+
+                        ],
+                        "spelersLijst":null,
+                        "tVlijst":null,
+                        "key":"3BVBL1058HSE  2",
+                        "type":3,
+                        "guid":"BVBL1058HSE  2"
+                    }
+                ],
+                "categorie":"Heren Senioren",
+                "regioGUID":"BVBL9100",
+                "regioNaam":"Landelijk",
+                "relatedPoules":null,
+                "key":"6BVBL19209100BLAHSEPK",
+                "type":6,
+                "guid":"BVBL19209100BLAHSEPK"
+            }
+        ],
+        "spelers":null,
+        "tvlijst":null
+    }
+]

@@ -6,7 +6,7 @@
 import json
 import requests
 
-from bvlapi.exceptions import ApiCallFailed
+from bvlapi.common.exceptions import ApiCallFailed
 
 
 def call_api(url):
