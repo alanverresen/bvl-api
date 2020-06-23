@@ -24,3 +24,4 @@ coverage
 
 # tool for building documentation
 sphinx
+sphinx-rtd-theme

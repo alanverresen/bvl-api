@@ -8,6 +8,17 @@ from bvlapi.common.parse import use_fallback_value
 
 class CompetitionStanding:
     """ Used to hold information about one's standing in a competition.
+
+    :ivar str name: name of team
+    :ivar int rank: rank of team within competition
+    :ivar int rank_points: amount of points that determine a team's standing
+    :ivar int games_played: amount of games played by team
+    :ivar int games_wins: amount of games won by team
+    :ivar int games_losses: amount of games lost by team
+    :ivar int games_draws: amount of games played by team that ended in a draw
+    :ivar int points_scored: amount of points scored by team
+    :ivar int points_conceded: amount of points conceded by team
+    :ivar str comment: an optional comment
     """
 
     def __init__(self, r):

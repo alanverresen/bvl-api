@@ -17,13 +17,10 @@ MyPackage is ...
 
 .. toctree::
    :maxdepth: 1
-   :caption: Developer Guide:
+   :caption: Package Documentation:
+   :glob:
 
-   content/dev_guide/introduction
-   content/dev_guide/contributing
-   content/dev_guide/documentation
-   content/dev_guide/testing
-   content/dev_guide/code_of_conduct
+   content/code/*
 
 .. toctree::
    :maxdepth: 1

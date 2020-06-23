@@ -37,5 +37,5 @@ def test_get_matches():
         assert matches[0].visiting_score == 61
         assert matches[0].datetime == datetime(2019, 10, 5, 18, 15, tzinfo=tz)
         assert matches[0].location == "Sporthal de Schalk"
-        assert not matches[0].is_forfait
+        assert not matches[0].is_forfeit
         assert matches[0].is_bekermatch

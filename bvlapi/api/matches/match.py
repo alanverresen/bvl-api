@@ -14,6 +14,15 @@ from bvlapi.common.settings import DEFAULT_TIME
 
 class MatchInformation:
     """ Used to represent and organize information about a basketball match.
+
+    :ivar datetime datetime: date and time of match
+    :ivar str location: name of location where match is played
+    :ivar str home_team: name of home team
+    :ivar int home_score: score of home team
+    :ivar str visiting_team: name of visiting team
+    :ivar int visiting_score: score of visiting team
+    :ivar bool is_forfeit: did one of the team's forfeit the game?
+    :ivar bool is_bekermatch: is a cup match?
     """
 
     def __init__(self, d):
@@ -26,7 +35,7 @@ class MatchInformation:
         self.home_score = parse_home_score(d)
         self.visiting_team = parse_visitor(d)
         self.visiting_score = parse_visitor_score(d)
-        self.is_forfait = parse_is_forfeit(d)
+        self.is_forfeit = parse_is_forfeit(d)
         self.is_bekermatch = parse_is_bekermatch(d)
 
 
