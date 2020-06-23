@@ -10,7 +10,10 @@ using the public API of Basketbal Vlaanderen.
 Features
 ==============================================================================
 
-Add a small overview of general features here.
+This package can be used to retrieve information about:
+
+* competitions that a team is part of
+* games played/to be played by a team
 
 
 ==============================================================================

@@ -29,6 +29,19 @@ The following changes are planned to happen in the future:
 - Nothing planned at the moment.
 
 
+0.1.0 - 2020-06-23
+------------------
+
+PROJECT
+~~~~~~~
+- Project is now considered in alpha stage.
+
+ADDED
+~~~~~
+- Added functionality to retrieve information about team competitions.
+- Added functionality to retrieve information about team matches.
+
+
 0.0.2 - 2020-06-22
 ------------------
 

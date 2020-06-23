@@ -42,7 +42,7 @@ setup(
 
     name="bvl-api",
     url="https://github.com/alanverresen/bvl-api",
-    version="0.0.2",
+    version="0.1.0",
     python_requires=">=3.6",
     license="MIT",
 
@@ -68,7 +68,7 @@ setup(
     ],
 
     classifiers=[
-        "Development Status :: 1 - Planning",
+        "Development Status:: 3 - Alpha",
         "License :: OSI Approved :: MIT License",
         "Programming Language :: Python :: 3",
         "Programming Language :: Python :: 3.6",
