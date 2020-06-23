@@ -1,5 +1,5 @@
-Information about Matches
-=========================
+Get Information about Matches
+=============================
 
 .. autofunction:: bvlapi.get_matches
 

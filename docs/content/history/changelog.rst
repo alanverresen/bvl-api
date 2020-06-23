@@ -29,6 +29,15 @@ The following changes are planned to happen in the future:
 - Nothing planned at the moment.
 
 
+0.1.1 - 2020-06-23
+------------------
+
+ADDED
+~~~~~
+- Fixed typos.
+- Added module documentation.
+
+
 0.1.0 - 2020-06-23
 ------------------
 

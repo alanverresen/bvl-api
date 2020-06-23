@@ -1,5 +1,5 @@
-Information about Competitions
-==============================
+Get Information About Competitions
+==================================
 
 .. autofunction:: bvlapi.get_competitions
 

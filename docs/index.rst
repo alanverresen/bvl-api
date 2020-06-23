@@ -17,7 +17,7 @@ competitions using the public API of Basketbal Vlaanderen.
 
 .. toctree::
    :maxdepth: 1
-   :caption: Package Documentation:
+   :caption: vblapi:
    :glob:
 
    content/code/*
