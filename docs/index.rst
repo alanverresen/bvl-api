@@ -5,14 +5,16 @@
 Welcome to bvl-api's documentation!
 ========================================
 
-This is a Python package used to retrieve data about Flemish basketball
-competitions using the public API of Basketbal Vlaanderen.
+bvl-api is a Python package used for retrieving data about Flemish basketball
+competitions using the public API of Basketbal Vlaanderen. You can use it to
+show information about your basketball club's teams on your website.
 
 .. toctree::
    :maxdepth: 1
    :caption: User Guide:
 
-   content/user_guide/getting_started
+   content/user_guide/installation
+   content/user_guide/retrieve_guid
    content/user_guide/competitions
    content/user_guide/matches
 

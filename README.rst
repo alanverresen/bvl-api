@@ -10,8 +10,8 @@ bvl-api
     :target: https://bvl-api.readthedocs.io/en/latest/?badge=latest
     :alt: Documentation Status
 
-Python package used to retrieve data about Flemish basketball competitions
-using the public API of Basketbal Vlaanderen.
+bvl-api is a python package used for retrieving data about Flemish basketball
+competitions using the public API of Basketbal Vlaanderen.
 
 
 ==============================================================================
