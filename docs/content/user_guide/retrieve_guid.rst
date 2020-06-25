@@ -1,5 +1,5 @@
 ===============================================================================
-Retrieving Team GUID
+Get Team GUIDs
 ===============================================================================
 
 To collect information about a team's competitions and matches, you need to
@@ -40,6 +40,6 @@ https://www.basketbal.vlaanderen/competitie/resultaten-en-kalender
 
 Use the website to find your team(s) of interest, and extract the GUID of the
 team by using your browser's developer tools, or by inspecting the URLs. For
-example, when you visit the page with details about a team, the GUID is
-in the URL:
+example, when you try to access the page with details about a team, the GUID
+is in the URL:
 https://vblweb.wisseq.eu/Home/TeamDetail?teamGuid=BVBL1328HSE%20%201
