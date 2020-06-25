@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-# This file contains functionality used to make an API call.
+# Contains function used to make an API call.
 
 import json
 import requests
@@ -10,12 +10,12 @@ from bvlapi.common.exceptions import ApiCallFailed
 
 
 def call_api(url):
-    """ Sends GET request to REST API, and returns the JSON response.
+    """ Sends GET request to API, and returns the JSON response.
 
     :param str url: URL used to consume API
 
-    :rtype: result of API call
-    :rtype: dictionary
+    :return: result of API call as a dictionary
+    :rtype: dict
 
     :raise ApiCallFailed: something went wrong while calling API
     """

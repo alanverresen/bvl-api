@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-# This file contains all exceptions raised by this package.
+# Contains all exceptions raised by this package.
 
 
 class BvlApiException(Exception):

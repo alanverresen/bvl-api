@@ -1,15 +1,14 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-# Contains functionality to retrieve information about calendar.
-
-from bvlapi.common.settings import TIMEZONE
+# Contains class used to hold information about a basketball match.
 
 from datetime import datetime
 
 from bvlapi.common.parse import use_fallback_value
 from bvlapi.common.settings import DEFAULT_DATE
 from bvlapi.common.settings import DEFAULT_TIME
+from bvlapi.common.settings import TIMEZONE
 
 
 class MatchInformation:

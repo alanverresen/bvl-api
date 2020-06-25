@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-# Contains functionality to retrieve information about competitions.
+# Contains functionality used to retrieve information about competitions.
 
 from bvlapi.api.competitions.competition import Competition
 from bvlapi.common.call import call_api

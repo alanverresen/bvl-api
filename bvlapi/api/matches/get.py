@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-# Contains functionality to retrieve information about calendar.
+# Contains function used to retrieve information about a team's matches.
 
 from bvlapi.api.matches.match import MatchInformation
 from bvlapi.common.call import call_api
@@ -9,7 +9,7 @@ from bvlapi.common.settings import API_BASE_URL
 
 
 def get_matches(team_guid):
-    """ Queries API for list of matches by team with given GUID.
+    """ Queries API for information about a team's games this season.
 
     :param str team_guid: GUID of team
 
