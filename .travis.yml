@@ -10,7 +10,7 @@ branches:
     - master
 
 install:
-  - pip install tox
+  - pip install tox setuptools
 
 script:
   - tox
