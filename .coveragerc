@@ -1,15 +1,13 @@
 # ----------------------------------------------------------------------------
-# coverage.ini
+# .coveragerc
 # ----------------------------------------------------------------------------
 # Used to configure 'coverage' tool to measure code coverage.
 # ----------------------------------------------------------------------------
 
-# .coveragerc to control coverage.py
 [run]
 branch = True
 
 [report]
-# Regexes for lines to exclude from consideration
 exclude_lines =
     # Have to re-enable the standard pragma
     pragma: no cover

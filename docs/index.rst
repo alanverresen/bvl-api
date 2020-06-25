@@ -12,23 +12,35 @@ competitions using the public API of Basketbal Vlaanderen.
    :maxdepth: 1
    :caption: User Guide:
 
-   content/user_guide/installation
    content/user_guide/getting_started
+
 
 .. toctree::
    :maxdepth: 1
-   :caption: vblapi:
+   :caption: Developer Guide:
+
+   content/dev_guide/developer_tools
+   content/dev_guide/contributing
+   content/dev_guide/documentation
+   content/dev_guide/testing
+   content/dev_guide/support
+
+
+.. toctree::
+   :maxdepth: 1
+   :caption: bvl-api
    :glob:
 
    content/code/*
+
 
 .. toctree::
    :maxdepth: 1
    :caption: History:
 
-   content/history/credits
    content/history/changelog
    content/history/rejected
+   content/history/credits
 
 
 Indices and tables

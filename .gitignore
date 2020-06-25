@@ -1,14 +1,22 @@
-# ignore every hidden file, except this one
+# ignore every hidden file, with exception of this file and config files
 .*
 !.gitignore
+!.bumpversion.cfg
+!.coveragerc
+!.flake8
 
-# ignore the files with the following file extensions
-*.pyc
-
-# also ignore the following files related to package distribution
+# also ignore the following directories
+*.egg-info/
 build/
 docs/_build/
 dist/
 logs/
-*.egg-info/
+__pycache__/
+
+# ignore the following files
 MANIFEST
+*.egg
+*.py[cod]
+*.pyc
+*.so
+*~

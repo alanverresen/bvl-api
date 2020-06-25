@@ -1,6 +1,7 @@
 #!/usr/bin/env sh
 
-# This script installs all tools for local development.
+# This script installs all developer tools needed for local development.
+# DO NOT RUN THIS SCRIPT DIRECTLY, USE 'make install-dev' INSTEAD!
 
 # Installs virtual python environment with pip.
 if [ ! -d ".venv" ]; then
@@ -14,5 +15,5 @@ fi
 . .venv/bin/activate
 
 # Install developer tools and package dependencies.
-python3 -m pip install --upgrade -r devs/requirements.txt
+python3 -m pip install --upgrade twine tox bump2version
 python3 -m pip install --upgrade -r requirements.txt
