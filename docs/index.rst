@@ -13,6 +13,8 @@ competitions using the public API of Basketbal Vlaanderen.
    :caption: User Guide:
 
    content/user_guide/getting_started
+   content/user_guide/competitions
+   content/user_guide/matches
 
 
 .. toctree::
@@ -24,14 +26,6 @@ competitions using the public API of Basketbal Vlaanderen.
    content/dev_guide/documentation
    content/dev_guide/testing
    content/dev_guide/support
-
-
-.. toctree::
-   :maxdepth: 1
-   :caption: bvl-api
-   :glob:
-
-   content/code/*
 
 
 .. toctree::
