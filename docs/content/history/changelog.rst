@@ -29,6 +29,16 @@ The following changes are planned to happen in the future:
 - Nothing planned at the moment.
 
 
+0.1.2 - 2020-06-26
+------------------
+
+PROJECT
+~~~~~~~
+- Added automated testing using Travis CI.
+- Added online hosting of documentation on ReadTheDocs.
+- Improved quality of documentation.
+
+
 0.1.1 - 2020-06-23
 ------------------
 
