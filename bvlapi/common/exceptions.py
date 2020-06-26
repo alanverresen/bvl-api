@@ -14,3 +14,9 @@ class ApiCallFailed(BvlApiException):
     """ Raised when something goes wrong when calling API.
     """
     pass
+
+
+class InvalidGuid(BvlApiException):
+    """ Raised when an invalid GUID is given.
+    """
+    pass

@@ -5,6 +5,8 @@
 
 from bvlapi.api.call import call_api
 from bvlapi.api.settings import API_BASE_URL
+from bvlapi.common.exceptions import InvalidGuid
+from bvlapi.guid.team import is_team_guid
 
 
 def get_detail_by_guid(guid):
@@ -19,5 +21,7 @@ def get_detail_by_guid(guid):
 
     :raise ApiCallFailed: something went wrong while calling API
     """
+    if not is_team_guid(guid):
+        raise InvalidGuid("'{}' is not a valid team GUID.".format(guid))
     url = API_BASE_URL + "TeamDetailByGuid?teamGuid={}".format(guid)
     return call_api(url)
