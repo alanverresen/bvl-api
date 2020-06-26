@@ -1,18 +1,21 @@
 ===============================================================================
-Get Team GUIDs
+Get GUIDs
 ===============================================================================
 
-To collect information about a team's competitions and matches, you need to
-determine the team's GUID first. This document outlines the structure and
-meaning of a GUID, and how to find the GUID of a team.
+To collect information about a basketball club or team, you need to determine
+the relevant GUIDs first. This document outlines the structure of these GUIDs,
+and how to find the GUIDs that you need.
 
 
 -------------------------------------------------------------------------------
-About the Team GUIDs
+Structure of GUIDs
 -------------------------------------------------------------------------------
 
-The GUID of a team is a unique identifier that is used to identify a specific
-team. The GUID looks like 'BVBLXXXXCCC++T', where:
+Team GUID
+~~~~~~~~~
+
+A **team GUID** is a unique identifier that is used to identify a specific
+basketball team. The GUID looks like 'BVBLXXXXCCC++T', where:
 
  - XXXX is a unique numeric club identifier (not the club's stamnummer!)
  - CCC is the age category (ex. HSE)
@@ -25,6 +28,14 @@ For example, the GUID "BVBL1004HSE++2" is the GUID of the following team:
  - HSE = Heren, Senioren (Male, Seniors)
  - 2 = Team B
 
+Club GUID
+~~~~~~~~~
+
+A **club GUID** is similar to the Team GUIDs, but only consists of the first
+part of a team's GUID, without the age category or team number.
+
+For example, the GUID "BVBL1004" is the GUID of the Port of Antwerp Giants.
+
 .. warning::
    The unique numeric club identifier of a GUID is completely arbitrary, so it
    is not the club's 'stamnummer'!
@@ -34,7 +45,7 @@ For example, the GUID "BVBL1004HSE++2" is the GUID of the following team:
 How To Find Team GUIDs?
 -------------------------------------------------------------------------------
 
-The GUID can be determined manually by inspecting the actual service at the
+These GUID can be determined manually by inspecting the actual service at the
 following link:
 https://www.basketbal.vlaanderen/competitie/resultaten-en-kalender
 
