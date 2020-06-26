@@ -3,9 +3,8 @@
 
 # Contains functionality used to retrieve information about competitions.
 
-from bvlapi.api.competitions.competition import Competition
-from bvlapi.common.call import call_api
-from bvlapi.common.settings import API_BASE_URL
+from bvlapi.data.competitions.competition import Competition
+from bvlapi.api.team import get_detail_by_guid
 
 
 def get_competitions(team_guid):
@@ -13,10 +12,10 @@ def get_competitions(team_guid):
 
     :param str team_guid: GUID of team
 
-    :return: list of competitions
     :rtype: [Competition]
+    :return: list of competitions
     """
-    data = call_api(API_BASE_URL + "TeamDetailByGuid?teamGuid=" + team_guid)
+    data = get_detail_by_guid(team_guid)
     if len(data) != 1:
         return []
     competitions = []

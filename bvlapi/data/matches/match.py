@@ -5,10 +5,10 @@
 
 from datetime import datetime
 
-from bvlapi.common.parse import use_fallback_value
-from bvlapi.common.settings import DEFAULT_DATE
-from bvlapi.common.settings import DEFAULT_TIME
-from bvlapi.common.settings import TIMEZONE
+from bvlapi.data.parse import use_fallback_value
+from bvlapi.data.settings import DEFAULT_DATE
+from bvlapi.data.settings import DEFAULT_TIME
+from bvlapi.data.settings import TIMEZONE
 
 
 class MatchInformation:

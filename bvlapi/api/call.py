@@ -14,8 +14,8 @@ def call_api(url):
 
     :param str url: URL used to consume API
 
+    :rtype: [dict]
     :return: result of API call as a dictionary
-    :rtype: dict
 
     :raise ApiCallFailed: something went wrong while calling API
     """

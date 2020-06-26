@@ -3,7 +3,7 @@
 
 # Contains class used to hold information about one's standing in competition.
 
-from bvlapi.common.parse import use_fallback_value
+from bvlapi.data.parse import use_fallback_value
 
 
 class CompetitionStanding:

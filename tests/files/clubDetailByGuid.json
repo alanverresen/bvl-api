@@ -1,0 +1,1963 @@
+[
+    {
+        "guid":"BVBL1004",
+        "stamNr":"71",
+        "naam":"Antwerp Giants",
+        "plaats":"Mechelen",
+        "teams":[
+            {
+                "naam":"Antwerp Giants HSE C",
+                "categorie":"Heren Senioren",
+                "organisationGUID":"BVBL1004",
+                "rangNr":null,
+                "wedAant":null,
+                "wedPunt":null,
+                "ptVoor":null,
+                "ptTegen":null,
+                "opmerk":null,
+                "wedWinst":null,
+                "wedGelijk":null,
+                "wedVerloren":null,
+                "wedNOKD":null,
+                "shirtKleur":"Rood, Rood",
+                "shirtReserve":"Wit, Wit",
+                "speelNivo":0,
+                "poules":[
+                    {
+                        "naam":"1e Provinciale Heren Antwerpen",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209110ANHSE11A",
+                        "type":6,
+                        "guid":"BVBL19209110ANHSE11A"
+                    },
+                    {
+                        "naam":"Beker van Vlaanderen Heren Poule C",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209100BLAHSEPC",
+                        "type":6,
+                        "guid":"BVBL19209100BLAHSEPC"
+                    },
+                    {
+                        "naam":"Beker van Antwerpen Heren 1/2 Finale",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209110BANHSE02",
+                        "type":6,
+                        "guid":"BVBL19209110BANHSE02"
+                    },
+                    {
+                        "naam":"Beker van Antwerpen Heren 1/4 Finale",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209110BANHSE04",
+                        "type":6,
+                        "guid":"BVBL19209110BANHSE04"
+                    },
+                    {
+                        "naam":"Beker van Antwerpen Heren 1/8 Finale",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209110BANHSE08",
+                        "type":6,
+                        "guid":"BVBL19209110BANHSE08"
+                    },
+                    {
+                        "naam":"Beker van Antwerpen Heren 1/16 Finale",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209110BANHSE16",
+                        "type":6,
+                        "guid":"BVBL19209110BANHSE16"
+                    },
+                    {
+                        "naam":"Beker van Antwerpen Heren 1/32 Finale",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209110BANHSE32",
+                        "type":6,
+                        "guid":"BVBL19209110BANHSE32"
+                    }
+                ],
+                "spelersLijst":null,
+                "tVlijst":null,
+                "key":"3BVBL1004HSE  3",
+                "type":3,
+                "guid":"BVBL1004HSE  3"
+            },
+            {
+                "naam":"Antwerp Giants J21 A",
+                "categorie":"J21  U21 Jongens",
+                "organisationGUID":"BVBL1004",
+                "rangNr":null,
+                "wedAant":null,
+                "wedPunt":null,
+                "ptVoor":null,
+                "ptTegen":null,
+                "opmerk":null,
+                "wedWinst":null,
+                "wedGelijk":null,
+                "wedVerloren":null,
+                "wedNOKD":null,
+                "shirtKleur":"Wit, Wit",
+                "shirtReserve":"Rood, Rood",
+                "speelNivo":0,
+                "poules":[
+                    {
+                        "naam":"U21 Niveau 1A R2 A",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209170INJ2112A",
+                        "type":6,
+                        "guid":"BVBL19209170INJ2112A"
+                    },
+                    {
+                        "naam":"U21 Niveau 1 B",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209170INJ2111B",
+                        "type":6,
+                        "guid":"BVBL19209170INJ2111B"
+                    },
+                    {
+                        "naam":"Beker van Vlaanderen U21 Jongens 1/2 Finale",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209100BLAJ2102",
+                        "type":6,
+                        "guid":"BVBL19209100BLAJ2102"
+                    },
+                    {
+                        "naam":"Beker van Vlaanderen U21 Jongens 1/4 Finale",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209100BLAJ2104",
+                        "type":6,
+                        "guid":"BVBL19209100BLAJ2104"
+                    },
+                    {
+                        "naam":"Beker van Vlaanderen U21 Jongens 1/8 Finale",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209100BLAJ2108",
+                        "type":6,
+                        "guid":"BVBL19209100BLAJ2108"
+                    },
+                    {
+                        "naam":"Beker van Vlaanderen U21 Jongens 1/16 Finale",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209100BLAJ2116",
+                        "type":6,
+                        "guid":"BVBL19209100BLAJ2116"
+                    }
+                ],
+                "spelersLijst":null,
+                "tVlijst":null,
+                "key":"3BVBL1004J21  1",
+                "type":3,
+                "guid":"BVBL1004J21  1"
+            },
+            {
+                "naam":"Antwerp Giants J21 B",
+                "categorie":"J21  U21 Jongens",
+                "organisationGUID":"BVBL1004",
+                "rangNr":null,
+                "wedAant":null,
+                "wedPunt":null,
+                "ptVoor":null,
+                "ptTegen":null,
+                "opmerk":null,
+                "wedWinst":null,
+                "wedGelijk":null,
+                "wedVerloren":null,
+                "wedNOKD":null,
+                "shirtKleur":"Rood, Rood",
+                "shirtReserve":"Wit, Wit",
+                "speelNivo":0,
+                "poules":[
+                    {
+                        "naam":"U21 Niveau 3 D",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209170INJ2131D",
+                        "type":6,
+                        "guid":"BVBL19209170INJ2131D"
+                    },
+                    {
+                        "naam":"Beker van Antwerpen U21 Jongens 1/8 Finale",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209110BANJ2108",
+                        "type":6,
+                        "guid":"BVBL19209110BANJ2108"
+                    },
+                    {
+                        "naam":"Beker van Antwerpen U21 Jongens Voorronde",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209110BANJ21VR",
+                        "type":6,
+                        "guid":"BVBL19209110BANJ21VR"
+                    }
+                ],
+                "spelersLijst":null,
+                "tVlijst":null,
+                "key":"3BVBL1004J21  2",
+                "type":3,
+                "guid":"BVBL1004J21  2"
+            },
+            {
+                "naam":"Antwerp Giants J18 B",
+                "categorie":"J18  U18 Jongens",
+                "organisationGUID":"BVBL1004",
+                "rangNr":null,
+                "wedAant":null,
+                "wedPunt":null,
+                "ptVoor":null,
+                "ptTegen":null,
+                "opmerk":null,
+                "wedWinst":null,
+                "wedGelijk":null,
+                "wedVerloren":null,
+                "wedNOKD":null,
+                "shirtKleur":"Rood, Rood",
+                "shirtReserve":"Wit, Wit",
+                "speelNivo":0,
+                "poules":[
+                    {
+                        "naam":"U18 Niveau 3 R2 B",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209170INJ1832B",
+                        "type":6,
+                        "guid":"BVBL19209170INJ1832B"
+                    },
+                    {
+                        "naam":"U18 Niveau 3 H",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209170INJ1831H",
+                        "type":6,
+                        "guid":"BVBL19209170INJ1831H"
+                    },
+                    {
+                        "naam":"Beker van Antwerpen U18 Jongens 1/4 Finale",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209110BANJ1804",
+                        "type":6,
+                        "guid":"BVBL19209110BANJ1804"
+                    },
+                    {
+                        "naam":"Beker van Antwerpen U18 Jongens 1/8 Finale",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209110BANJ1808",
+                        "type":6,
+                        "guid":"BVBL19209110BANJ1808"
+                    },
+                    {
+                        "naam":"Beker van Antwerpen U18 Jongens Voorronde",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209110BANJ18VR",
+                        "type":6,
+                        "guid":"BVBL19209110BANJ18VR"
+                    }
+                ],
+                "spelersLijst":null,
+                "tVlijst":null,
+                "key":"3BVBL1004J18  2",
+                "type":3,
+                "guid":"BVBL1004J18  2"
+            },
+            {
+                "naam":"Antwerp Giants J18 A",
+                "categorie":"J18  U18 Jongens",
+                "organisationGUID":"BVBL1004",
+                "rangNr":null,
+                "wedAant":null,
+                "wedPunt":null,
+                "ptVoor":null,
+                "ptTegen":null,
+                "opmerk":null,
+                "wedWinst":null,
+                "wedGelijk":null,
+                "wedVerloren":null,
+                "wedNOKD":null,
+                "shirtKleur":"Rood, Rood",
+                "shirtReserve":"Wit, Wit",
+                "speelNivo":0,
+                "poules":[
+                    {
+                        "naam":"U18 Niveau 1 C",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209170INJ1811C",
+                        "type":6,
+                        "guid":"BVBL19209170INJ1811C"
+                    },
+                    {
+                        "naam":"Beker van Vlaanderen U18 Jongens 1/2 Finale",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209100BLAJ1802",
+                        "type":6,
+                        "guid":"BVBL19209100BLAJ1802"
+                    },
+                    {
+                        "naam":"Beker van Vlaanderen U18 Jongens 1/4 Finale",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209100BLAJ1804",
+                        "type":6,
+                        "guid":"BVBL19209100BLAJ1804"
+                    },
+                    {
+                        "naam":"Beker van Vlaanderen U18 Jongens 1/8 Finale",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209100BLAJ1808",
+                        "type":6,
+                        "guid":"BVBL19209100BLAJ1808"
+                    },
+                    {
+                        "naam":"Beker van Vlaanderen U18 Jongens 1/16 Finale",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209100BLAJ1816",
+                        "type":6,
+                        "guid":"BVBL19209100BLAJ1816"
+                    }
+                ],
+                "spelersLijst":null,
+                "tVlijst":null,
+                "key":"3BVBL1004J18  1",
+                "type":3,
+                "guid":"BVBL1004J18  1"
+            },
+            {
+                "naam":"Antwerp Giants J16 A",
+                "categorie":"J16  U16 Jongens",
+                "organisationGUID":"BVBL1004",
+                "rangNr":null,
+                "wedAant":null,
+                "wedPunt":null,
+                "ptVoor":null,
+                "ptTegen":null,
+                "opmerk":null,
+                "wedWinst":null,
+                "wedGelijk":null,
+                "wedVerloren":null,
+                "wedNOKD":null,
+                "shirtKleur":"Rood, Rood",
+                "shirtReserve":"Wit, Wit",
+                "speelNivo":0,
+                "poules":[
+                    {
+                        "naam":"U16 Niveau 1 R2 A",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209170INJ1612A",
+                        "type":6,
+                        "guid":"BVBL19209170INJ1612A"
+                    },
+                    {
+                        "naam":"U16 Niveau 1 C",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209170INJ1611C",
+                        "type":6,
+                        "guid":"BVBL19209170INJ1611C"
+                    },
+                    {
+                        "naam":"Beker van Vlaanderen U16 Jongens 1/2 Finale",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209100BLAJ1602",
+                        "type":6,
+                        "guid":"BVBL19209100BLAJ1602"
+                    },
+                    {
+                        "naam":"Beker van Vlaanderen U16 Jongens 1/4 Finale",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209100BLAJ1604",
+                        "type":6,
+                        "guid":"BVBL19209100BLAJ1604"
+                    },
+                    {
+                        "naam":"Beker van Vlaanderen U16 Jongens 1/8 Finale",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209100BLAJ1608",
+                        "type":6,
+                        "guid":"BVBL19209100BLAJ1608"
+                    },
+                    {
+                        "naam":"Beker van Vlaanderen U16 Jongens 1/16 Finale",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209100BLAJ1616",
+                        "type":6,
+                        "guid":"BVBL19209100BLAJ1616"
+                    }
+                ],
+                "spelersLijst":null,
+                "tVlijst":null,
+                "key":"3BVBL1004J16  1",
+                "type":3,
+                "guid":"BVBL1004J16  1"
+            },
+            {
+                "naam":"Antwerp Giants J16 B",
+                "categorie":"J16  U16 Jongens",
+                "organisationGUID":"BVBL1004",
+                "rangNr":null,
+                "wedAant":null,
+                "wedPunt":null,
+                "ptVoor":null,
+                "ptTegen":null,
+                "opmerk":null,
+                "wedWinst":null,
+                "wedGelijk":null,
+                "wedVerloren":null,
+                "wedNOKD":null,
+                "shirtKleur":"Rood, Rood",
+                "shirtReserve":"Wit, Wit",
+                "speelNivo":0,
+                "poules":[
+                    {
+                        "naam":"U16 Niveau 3 G",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209170INJ1631G",
+                        "type":6,
+                        "guid":"BVBL19209170INJ1631G"
+                    },
+                    {
+                        "naam":"Beker van Antwerpen U16 Jongens 1/4 Finale",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209110BANJ1604",
+                        "type":6,
+                        "guid":"BVBL19209110BANJ1604"
+                    },
+                    {
+                        "naam":"Beker van Antwerpen U16 Jongens 1/8 Finale",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209110BANJ1608",
+                        "type":6,
+                        "guid":"BVBL19209110BANJ1608"
+                    },
+                    {
+                        "naam":"Beker van Antwerpen U16 Jongens 1/16 Finale",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209110BANJ1616",
+                        "type":6,
+                        "guid":"BVBL19209110BANJ1616"
+                    }
+                ],
+                "spelersLijst":null,
+                "tVlijst":null,
+                "key":"3BVBL1004J16  2",
+                "type":3,
+                "guid":"BVBL1004J16  2"
+            },
+            {
+                "naam":"Antwerp Giants G14 B",
+                "categorie":"G14  U14 Gemengd",
+                "organisationGUID":"BVBL1004",
+                "rangNr":null,
+                "wedAant":null,
+                "wedPunt":null,
+                "ptVoor":null,
+                "ptTegen":null,
+                "opmerk":null,
+                "wedWinst":null,
+                "wedGelijk":null,
+                "wedVerloren":null,
+                "wedNOKD":null,
+                "shirtKleur":"Rood, Rood",
+                "shirtReserve":"Wit, Wit",
+                "speelNivo":0,
+                "poules":[
+                    {
+                        "naam":"U14 Niveau 3 I",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209170INJ1431I",
+                        "type":6,
+                        "guid":"BVBL19209170INJ1431I"
+                    },
+                    {
+                        "naam":"Beker van Antwerpen U14 Gemengd 1/4 Finale",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209110BANG1404",
+                        "type":6,
+                        "guid":"BVBL19209110BANG1404"
+                    },
+                    {
+                        "naam":"Beker van Antwerpen U14 Gemengd 1/8 Finale",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209110BANG1408",
+                        "type":6,
+                        "guid":"BVBL19209110BANG1408"
+                    },
+                    {
+                        "naam":"Beker van Antwerpen U14 Gemengd 1/16 Finale",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209110BANG1416",
+                        "type":6,
+                        "guid":"BVBL19209110BANG1416"
+                    }
+                ],
+                "spelersLijst":null,
+                "tVlijst":null,
+                "key":"3BVBL1004G14  2",
+                "type":3,
+                "guid":"BVBL1004G14  2"
+            },
+            {
+                "naam":"Antwerp Giants M19 A",
+                "categorie":"M19  U19 Meisjes",
+                "organisationGUID":"BVBL1004",
+                "rangNr":null,
+                "wedAant":null,
+                "wedPunt":null,
+                "ptVoor":null,
+                "ptTegen":null,
+                "opmerk":null,
+                "wedWinst":null,
+                "wedGelijk":null,
+                "wedVerloren":null,
+                "wedNOKD":null,
+                "shirtKleur":"rood, rood",
+                "shirtReserve":"wit,wit",
+                "speelNivo":0,
+                "poules":[
+                    {
+                        "naam":"U19 Meisjes Niveau 2 R2 B",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209170INM1922B",
+                        "type":6,
+                        "guid":"BVBL19209170INM1922B"
+                    },
+                    {
+                        "naam":"U19 Meisjes Niveau 1 B",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209170INM1911B",
+                        "type":6,
+                        "guid":"BVBL19209170INM1911B"
+                    },
+                    {
+                        "naam":"Beker van Vlaanderen U19 Meisjes 1/8 Finale",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209100BLAM1908",
+                        "type":6,
+                        "guid":"BVBL19209100BLAM1908"
+                    }
+                ],
+                "spelersLijst":null,
+                "tVlijst":null,
+                "key":"3BVBL1004M19  1",
+                "type":3,
+                "guid":"BVBL1004M19  1"
+            },
+            {
+                "naam":"Antwerp Giants M19 B",
+                "categorie":"M19  U19 Meisjes",
+                "organisationGUID":"BVBL1004",
+                "rangNr":null,
+                "wedAant":null,
+                "wedPunt":null,
+                "ptVoor":null,
+                "ptTegen":null,
+                "opmerk":null,
+                "wedWinst":null,
+                "wedGelijk":null,
+                "wedVerloren":null,
+                "wedNOKD":null,
+                "shirtKleur":"rood, rood",
+                "shirtReserve":"wit,wit",
+                "speelNivo":0,
+                "poules":[
+                    {
+                        "naam":"U19 Meisjes Niveau 3 R2 C",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209170INM1932C",
+                        "type":6,
+                        "guid":"BVBL19209170INM1932C"
+                    },
+                    {
+                        "naam":"U19 Meisjes Niveau 3 C",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209170INM1941C",
+                        "type":6,
+                        "guid":"BVBL19209170INM1941C"
+                    },
+                    {
+                        "naam":"Beker van Antwerpen U19 Meisjes 1/4 Finale",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209110BANM1904",
+                        "type":6,
+                        "guid":"BVBL19209110BANM1904"
+                    }
+                ],
+                "spelersLijst":null,
+                "tVlijst":null,
+                "key":"3BVBL1004M19  2",
+                "type":3,
+                "guid":"BVBL1004M19  2"
+            },
+            {
+                "naam":"Antwerp Giants M19 C",
+                "categorie":"M19  U19 Meisjes",
+                "organisationGUID":"BVBL1004",
+                "rangNr":null,
+                "wedAant":null,
+                "wedPunt":null,
+                "ptVoor":null,
+                "ptTegen":null,
+                "opmerk":null,
+                "wedWinst":null,
+                "wedGelijk":null,
+                "wedVerloren":null,
+                "wedNOKD":null,
+                "shirtKleur":null,
+                "shirtReserve":null,
+                "speelNivo":0,
+                "poules":[
+                    {
+                        "naam":"U19 Meisjes Niveau 3 R2 D",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209170INM1932D",
+                        "type":6,
+                        "guid":"BVBL19209170INM1932D"
+                    },
+                    {
+                        "naam":"U19 Meisjes Niveau 3 D",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209170INM1941D",
+                        "type":6,
+                        "guid":"BVBL19209170INM1941D"
+                    }
+                ],
+                "spelersLijst":null,
+                "tVlijst":null,
+                "key":"3BVBL1004M19  3",
+                "type":3,
+                "guid":"BVBL1004M19  3"
+            },
+            {
+                "naam":"Antwerp Giants M16 A",
+                "categorie":"M16  U16 Meisjes",
+                "organisationGUID":"BVBL1004",
+                "rangNr":null,
+                "wedAant":null,
+                "wedPunt":null,
+                "ptVoor":null,
+                "ptTegen":null,
+                "opmerk":null,
+                "wedWinst":null,
+                "wedGelijk":null,
+                "wedVerloren":null,
+                "wedNOKD":null,
+                "shirtKleur":"Rood, Rood",
+                "shirtReserve":"Wit, Wit",
+                "speelNivo":0,
+                "poules":[
+                    {
+                        "naam":"U16 Meisjes Niveau 2 R2 B",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209170INM1622B",
+                        "type":6,
+                        "guid":"BVBL19209170INM1622B"
+                    },
+                    {
+                        "naam":"U16 Meisjes Niveau 3 E",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209170INM1631E",
+                        "type":6,
+                        "guid":"BVBL19209170INM1631E"
+                    },
+                    {
+                        "naam":"Beker van Antwerpen U16 Meisjes Voorronde",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209110BANM16VR",
+                        "type":6,
+                        "guid":"BVBL19209110BANM16VR"
+                    }
+                ],
+                "spelersLijst":null,
+                "tVlijst":null,
+                "key":"3BVBL1004M16  1",
+                "type":3,
+                "guid":"BVBL1004M16  1"
+            },
+            {
+                "naam":"Antwerp Giants M14 A",
+                "categorie":"M14  U14 Meisjes",
+                "organisationGUID":"BVBL1004",
+                "rangNr":null,
+                "wedAant":null,
+                "wedPunt":null,
+                "ptVoor":null,
+                "ptTegen":null,
+                "opmerk":null,
+                "wedWinst":null,
+                "wedGelijk":null,
+                "wedVerloren":null,
+                "wedNOKD":null,
+                "shirtKleur":"Rood, Rood",
+                "shirtReserve":"Wit, Wit",
+                "speelNivo":0,
+                "poules":[
+                    {
+                        "naam":"U14 Meisjes Niveau 2A R2 B",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209170INM1422B",
+                        "type":6,
+                        "guid":"BVBL19209170INM1422B"
+                    },
+                    {
+                        "naam":"U14 Meisjes Niveau 2 A",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209170INM1421A",
+                        "type":6,
+                        "guid":"BVBL19209170INM1421A"
+                    },
+                    {
+                        "naam":"Beker van Vlaanderen U14 Meisjes 1/8 Finale",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209100BLAM14VR",
+                        "type":6,
+                        "guid":"BVBL19209100BLAM14VR"
+                    }
+                ],
+                "spelersLijst":null,
+                "tVlijst":null,
+                "key":"3BVBL1004M14  1",
+                "type":3,
+                "guid":"BVBL1004M14  1"
+            },
+            {
+                "naam":"Antwerp Giants G12 A",
+                "categorie":"G12  U12 Gemengd",
+                "organisationGUID":"BVBL1004",
+                "rangNr":null,
+                "wedAant":null,
+                "wedPunt":null,
+                "ptVoor":null,
+                "ptTegen":null,
+                "opmerk":null,
+                "wedWinst":null,
+                "wedGelijk":null,
+                "wedVerloren":null,
+                "wedNOKD":null,
+                "shirtKleur":"Rood, Rood",
+                "shirtReserve":"Wit, Wit",
+                "speelNivo":0,
+                "poules":[
+                    {
+                        "naam":"U12 Niveau 3 M",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209170ING1231M",
+                        "type":6,
+                        "guid":"BVBL19209170ING1231M"
+                    },
+                    {
+                        "naam":"Beker van Antwerpen U12 Gemengd Poule F",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209110BANG12P6",
+                        "type":6,
+                        "guid":"BVBL19209110BANG12P6"
+                    },
+                    {
+                        "naam":"Beker van Antwerpen U12 Gemengd 1/8 Finale",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209110BANG1208",
+                        "type":6,
+                        "guid":"BVBL19209110BANG1208"
+                    },
+                    {
+                        "naam":"Beker van Antwerpen U12 Gemengd Voorronde",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209110BANG12VR",
+                        "type":6,
+                        "guid":"BVBL19209110BANG12VR"
+                    }
+                ],
+                "spelersLijst":null,
+                "tVlijst":null,
+                "key":"3BVBL1004G12  1",
+                "type":3,
+                "guid":"BVBL1004G12  1"
+            },
+            {
+                "naam":"Antwerp Giants G12 C",
+                "categorie":"G12  U12 Gemengd",
+                "organisationGUID":"BVBL1004",
+                "rangNr":null,
+                "wedAant":null,
+                "wedPunt":null,
+                "ptVoor":null,
+                "ptTegen":null,
+                "opmerk":null,
+                "wedWinst":null,
+                "wedGelijk":null,
+                "wedVerloren":null,
+                "wedNOKD":null,
+                "shirtKleur":"Rood, Rood",
+                "shirtReserve":"Wit, Wit",
+                "speelNivo":0,
+                "poules":[
+                    {
+                        "naam":"U12 Niveau 4 H ",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209170ING1241H",
+                        "type":6,
+                        "guid":"BVBL19209170ING1241H"
+                    }
+                ],
+                "spelersLijst":null,
+                "tVlijst":null,
+                "key":"3BVBL1004G12  3",
+                "type":3,
+                "guid":"BVBL1004G12  3"
+            },
+            {
+                "naam":"Antwerp Giants G12 B",
+                "categorie":"G12  U12 Gemengd",
+                "organisationGUID":"BVBL1004",
+                "rangNr":null,
+                "wedAant":null,
+                "wedPunt":null,
+                "ptVoor":null,
+                "ptTegen":null,
+                "opmerk":null,
+                "wedWinst":null,
+                "wedGelijk":null,
+                "wedVerloren":null,
+                "wedNOKD":null,
+                "shirtKleur":"Rood, Rood",
+                "shirtReserve":"Wit, Wit",
+                "speelNivo":0,
+                "poules":[
+                    {
+                        "naam":"U12 Niveau 4 V",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209170ING1241V",
+                        "type":6,
+                        "guid":"BVBL19209170ING1241V"
+                    }
+                ],
+                "spelersLijst":null,
+                "tVlijst":null,
+                "key":"3BVBL1004G12  2",
+                "type":3,
+                "guid":"BVBL1004G12  2"
+            },
+            {
+                "naam":"Antwerp Giants G10 B",
+                "categorie":"G10 U10 Gemengd",
+                "organisationGUID":"BVBL1004",
+                "rangNr":null,
+                "wedAant":null,
+                "wedPunt":null,
+                "ptVoor":null,
+                "ptTegen":null,
+                "opmerk":null,
+                "wedWinst":null,
+                "wedGelijk":null,
+                "wedVerloren":null,
+                "wedNOKD":null,
+                "shirtKleur":"Rood, Rood",
+                "shirtReserve":"Wit, Wit",
+                "speelNivo":0,
+                "poules":[
+                    {
+                        "naam":"U10 Niveau 4 R2 AL",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209170ING1042AL",
+                        "type":6,
+                        "guid":"BVBL19209170ING1042AL"
+                    },
+                    {
+                        "naam":"U10 Niveau 4 Y",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209170ING1041Y",
+                        "type":6,
+                        "guid":"BVBL19209170ING1041Y"
+                    }
+                ],
+                "spelersLijst":null,
+                "tVlijst":null,
+                "key":"3BVBL1004G10  2",
+                "type":3,
+                "guid":"BVBL1004G10  2"
+            },
+            {
+                "naam":"Antwerp Giants G10 D",
+                "categorie":"G10 U10 Gemengd",
+                "organisationGUID":"BVBL1004",
+                "rangNr":null,
+                "wedAant":null,
+                "wedPunt":null,
+                "ptVoor":null,
+                "ptTegen":null,
+                "opmerk":null,
+                "wedWinst":null,
+                "wedGelijk":null,
+                "wedVerloren":null,
+                "wedNOKD":null,
+                "shirtKleur":null,
+                "shirtReserve":null,
+                "speelNivo":0,
+                "poules":[
+                    {
+                        "naam":"U10 Niveau 4 R2 W",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209170ING1042W",
+                        "type":6,
+                        "guid":"BVBL19209170ING1042W"
+                    },
+                    {
+                        "naam":"U10 Niveau 4 L",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209170ING1041L",
+                        "type":6,
+                        "guid":"BVBL19209170ING1041L"
+                    }
+                ],
+                "spelersLijst":null,
+                "tVlijst":null,
+                "key":"3BVBL1004G10  4",
+                "type":3,
+                "guid":"BVBL1004G10  4"
+            },
+            {
+                "naam":"Antwerp Giants G10 C",
+                "categorie":"G10 U10 Gemengd",
+                "organisationGUID":"BVBL1004",
+                "rangNr":null,
+                "wedAant":null,
+                "wedPunt":null,
+                "ptVoor":null,
+                "ptTegen":null,
+                "opmerk":null,
+                "wedWinst":null,
+                "wedGelijk":null,
+                "wedVerloren":null,
+                "wedNOKD":null,
+                "shirtKleur":"rood, rood",
+                "shirtReserve":"wit,wit",
+                "speelNivo":0,
+                "poules":[
+                    {
+                        "naam":"U10 Niveau 4 R2 X",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209170ING1042X",
+                        "type":6,
+                        "guid":"BVBL19209170ING1042X"
+                    },
+                    {
+                        "naam":"U10 Niveau 4 AN",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209170ING1041AN",
+                        "type":6,
+                        "guid":"BVBL19209170ING1041AN"
+                    }
+                ],
+                "spelersLijst":null,
+                "tVlijst":null,
+                "key":"3BVBL1004G10  3",
+                "type":3,
+                "guid":"BVBL1004G10  3"
+            },
+            {
+                "naam":"Antwerp Giants G10 A",
+                "categorie":"G10 U10 Gemengd",
+                "organisationGUID":"BVBL1004",
+                "rangNr":null,
+                "wedAant":null,
+                "wedPunt":null,
+                "ptVoor":null,
+                "ptTegen":null,
+                "opmerk":null,
+                "wedWinst":null,
+                "wedGelijk":null,
+                "wedVerloren":null,
+                "wedNOKD":null,
+                "shirtKleur":"Rood, Rood",
+                "shirtReserve":"Wit, Wit",
+                "speelNivo":0,
+                "poules":[
+                    {
+                        "naam":"U10 Niveau 3 F",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209170ING1031F",
+                        "type":6,
+                        "guid":"BVBL19209170ING1031F"
+                    }
+                ],
+                "spelersLijst":null,
+                "tVlijst":null,
+                "key":"3BVBL1004G10  1",
+                "type":3,
+                "guid":"BVBL1004G10  1"
+            },
+            {
+                "naam":"Antwerp Giants G08 A",
+                "categorie":"G08 U08 Gemengd",
+                "organisationGUID":"BVBL1004",
+                "rangNr":null,
+                "wedAant":null,
+                "wedPunt":null,
+                "ptVoor":null,
+                "ptTegen":null,
+                "opmerk":null,
+                "wedWinst":null,
+                "wedGelijk":null,
+                "wedVerloren":null,
+                "wedNOKD":null,
+                "shirtKleur":"Rood, Rood",
+                "shirtReserve":"Wit, Wit",
+                "speelNivo":0,
+                "poules":[
+                    {
+                        "naam":"U08 Niveau 4 R2 (2x 3t3) M",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209170ING0842M",
+                        "type":6,
+                        "guid":"BVBL19209170ING0842M"
+                    },
+                    {
+                        "naam":"U08 Niveau 4 (2x 3t3) M",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209170ING0841M",
+                        "type":6,
+                        "guid":"BVBL19209170ING0841M"
+                    }
+                ],
+                "spelersLijst":null,
+                "tVlijst":null,
+                "key":"3BVBL1004G08  1",
+                "type":3,
+                "guid":"BVBL1004G08  1"
+            },
+            {
+                "naam":"Antwerp Giants G08 B",
+                "categorie":"G08 U08 Gemengd",
+                "organisationGUID":"BVBL1004",
+                "rangNr":null,
+                "wedAant":null,
+                "wedPunt":null,
+                "ptVoor":null,
+                "ptTegen":null,
+                "opmerk":null,
+                "wedWinst":null,
+                "wedGelijk":null,
+                "wedVerloren":null,
+                "wedNOKD":null,
+                "shirtKleur":"Rood, Rood",
+                "shirtReserve":"Wit, Wit",
+                "speelNivo":0,
+                "poules":[
+                    {
+                        "naam":"U08 Niveau 4 R2 (2x 3t3) N",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209170ING0842N",
+                        "type":6,
+                        "guid":"BVBL19209170ING0842N"
+                    },
+                    {
+                        "naam":"U08 Niveau 4 (2x 3t3) K",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209170ING0841K",
+                        "type":6,
+                        "guid":"BVBL19209170ING0841K"
+                    }
+                ],
+                "spelersLijst":null,
+                "tVlijst":null,
+                "key":"3BVBL1004G08  2",
+                "type":3,
+                "guid":"BVBL1004G08  2"
+            },
+            {
+                "naam":"Antwerp Giants HSE B",
+                "categorie":"Heren Senioren",
+                "organisationGUID":"BVBL1004",
+                "rangNr":null,
+                "wedAant":null,
+                "wedPunt":null,
+                "ptVoor":null,
+                "ptTegen":null,
+                "opmerk":null,
+                "wedWinst":null,
+                "wedGelijk":null,
+                "wedVerloren":null,
+                "wedNOKD":null,
+                "shirtKleur":"Wit, WIT",
+                "shirtReserve":"Rood, Rood",
+                "speelNivo":0,
+                "poules":[
+                    {
+                        "naam":"Beker van België Heren - Poule E",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL20219180BNAHSEPE",
+                        "type":6,
+                        "guid":"BVBL20219180BNAHSEPE"
+                    },
+                    {
+                        "naam":"Beker van Vlaanderen Heren 1/16 Finale",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209100BLAHSE16",
+                        "type":6,
+                        "guid":"BVBL19209100BLAHSE16"
+                    }
+                ],
+                "spelersLijst":null,
+                "tVlijst":null,
+                "key":"3BVBL1004HSE  2",
+                "type":3,
+                "guid":"BVBL1004HSE  2"
+            },
+            {
+                "naam":"Antwerp Giants DSE B",
+                "categorie":"Dames Senioren",
+                "organisationGUID":"BVBL1004",
+                "rangNr":null,
+                "wedAant":null,
+                "wedPunt":null,
+                "ptVoor":null,
+                "ptTegen":null,
+                "opmerk":null,
+                "wedWinst":null,
+                "wedGelijk":null,
+                "wedVerloren":null,
+                "wedNOKD":null,
+                "shirtKleur":"Rood, Rood",
+                "shirtReserve":"Wit, Wit",
+                "speelNivo":0,
+                "poules":[
+                    {
+                        "naam":"Beker van Vlaanderen Dames Poule G",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209100BLADSEPG",
+                        "type":6,
+                        "guid":"BVBL19209100BLADSEPG"
+                    }
+                ],
+                "spelersLijst":null,
+                "tVlijst":null,
+                "key":"3BVBL1004DSE  2",
+                "type":3,
+                "guid":"BVBL1004DSE  2"
+            },
+            {
+                "naam":"Antwerp Giants G14 A",
+                "categorie":"G14  U14 Gemengd",
+                "organisationGUID":"BVBL1004",
+                "rangNr":null,
+                "wedAant":null,
+                "wedPunt":null,
+                "ptVoor":null,
+                "ptTegen":null,
+                "opmerk":null,
+                "wedWinst":null,
+                "wedGelijk":null,
+                "wedVerloren":null,
+                "wedNOKD":null,
+                "shirtKleur":"Rood, Rood",
+                "shirtReserve":"Wit, Wit",
+                "speelNivo":0,
+                "poules":[
+                    {
+                        "naam":"Beker van Vlaanderen U14 Gemengd Finale",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209100BLAG1401",
+                        "type":6,
+                        "guid":"BVBL19209100BLAG1401"
+                    },
+                    {
+                        "naam":"Beker van Vlaanderen U14 Gemengd 1/2 Finale",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209100BLAG1402",
+                        "type":6,
+                        "guid":"BVBL19209100BLAG1402"
+                    },
+                    {
+                        "naam":"Beker van Vlaanderen U14 Gemengd 1/4 Finale",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209100BLAG1404",
+                        "type":6,
+                        "guid":"BVBL19209100BLAG1404"
+                    },
+                    {
+                        "naam":"Beker van Vlaanderen U14 Gemengd 1/8 Finale",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209100BLAG1408",
+                        "type":6,
+                        "guid":"BVBL19209100BLAG1408"
+                    },
+                    {
+                        "naam":"Beker van Vlaanderen U14 Gemengd 1/16 Finale",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209100BLAG1416",
+                        "type":6,
+                        "guid":"BVBL19209100BLAG1416"
+                    }
+                ],
+                "spelersLijst":null,
+                "tVlijst":null,
+                "key":"3BVBL1004G14  1",
+                "type":3,
+                "guid":"BVBL1004G14  1"
+            },
+            {
+                "naam":"Antwerp Giants HSE D",
+                "categorie":"Heren Senioren",
+                "organisationGUID":"BVBL1004",
+                "rangNr":null,
+                "wedAant":null,
+                "wedPunt":null,
+                "ptVoor":null,
+                "ptTegen":null,
+                "opmerk":null,
+                "wedWinst":null,
+                "wedGelijk":null,
+                "wedVerloren":null,
+                "wedNOKD":null,
+                "shirtKleur":"rood, rood",
+                "shirtReserve":"wit,wit",
+                "speelNivo":0,
+                "poules":[
+                    {
+                        "naam":"Beker van Antwerpen Heren 1/32 Finale",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209110BANHSE32",
+                        "type":6,
+                        "guid":"BVBL19209110BANHSE32"
+                    },
+                    {
+                        "naam":"Beker van Antwerpen Heren Voorronde",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209110BANHSEVR",
+                        "type":6,
+                        "guid":"BVBL19209110BANHSEVR"
+                    }
+                ],
+                "spelersLijst":null,
+                "tVlijst":null,
+                "key":"3BVBL1004HSE  4",
+                "type":3,
+                "guid":"BVBL1004HSE  4"
+            },
+            {
+                "naam":"Antwerp Giants DSE C",
+                "categorie":"Dames Senioren",
+                "organisationGUID":"BVBL1004",
+                "rangNr":null,
+                "wedAant":null,
+                "wedPunt":null,
+                "ptVoor":null,
+                "ptTegen":null,
+                "opmerk":null,
+                "wedWinst":null,
+                "wedGelijk":null,
+                "wedVerloren":null,
+                "wedNOKD":null,
+                "shirtKleur":null,
+                "shirtReserve":null,
+                "speelNivo":0,
+                "poules":[
+                    {
+                        "naam":"Beker van Antwerpen Dames 1/16 Finale",
+                        "sort":null,
+                        "teams":[
+
+                        ],
+                        "categorie":null,
+                        "regioGUID":null,
+                        "regioNaam":null,
+                        "relatedPoules":null,
+                        "key":"6BVBL19209110BANDSEVR",
+                        "type":6,
+                        "guid":"BVBL19209110BANDSEVR"
+                    }
+                ],
+                "spelersLijst":null,
+                "tVlijst":null,
+                "key":"3BVBL1004DSE  3",
+                "type":3,
+                "guid":"BVBL1004DSE  3"
+            }
+        ],
+        "website":"www.antwerpgiants.be",
+        "adres":{
+            "straat":"Gasthuishoevestraat",
+            "huisNr":"71",
+            "huisNrToev":null,
+            "postcode":"2170",
+            "plaats":"Merksem",
+            "land":"België"
+        },
+        "email":"ive.simons@antwerpgiants.be",
+        "accomms":[
+            {
+                "naam":"Heylen Vastgoed Basketcampus",
+                "adres":{
+                    "straat":"Gasthuishoevestraat ",
+                    "huisNr":"71",
+                    "huisNrToev":null,
+                    "postcode":"2170",
+                    "plaats":"Antwerpen",
+                    "land":"BE"
+                },
+                "telefoon":null,
+                "website":null,
+                "key":"5BVBL600029",
+                "type":5,
+                "guid":"BVBL600029"
+            },
+            {
+                "naam":"Sporthal  Roosendael",
+                "adres":{
+                    "straat":"Speelpleinstraat",
+                    "huisNr":"1",
+                    "huisNrToev":null,
+                    "postcode":"2170",
+                    "plaats":"Merksem",
+                    "land":"Belgie"
+                },
+                "telefoon":null,
+                "website":null,
+                "key":"5BVBL100358",
+                "type":5,
+                "guid":"BVBL100358"
+            },
+            {
+                "naam":"Sporthal Arena",
+                "adres":{
+                    "straat":"Arenaplein",
+                    "huisNr":"1",
+                    "huisNrToev":null,
+                    "postcode":"2100",
+                    "plaats":"Deurne (Antwerpen)",
+                    "land":"Belgie"
+                },
+                "telefoon":null,
+                "website":null,
+                "key":"5BVBL100351",
+                "type":5,
+                "guid":"BVBL100351"
+            },
+            {
+                "naam":"Expohal",
+                "adres":{
+                    "straat":"Frank Craeybecklaan",
+                    "huisNr":"77",
+                    "huisNrToev":null,
+                    "postcode":"2100",
+                    "plaats":"Deurne (Ant)",
+                    "land":"Belgie"
+                },
+                "telefoon":null,
+                "website":null,
+                "key":"5BVBL100350",
+                "type":5,
+                "guid":"BVBL100350"
+            },
+            {
+                "naam":"Lotto Arena",
+                "adres":{
+                    "straat":"Schijnpoortweg",
+                    "huisNr":"119",
+                    "huisNrToev":null,
+                    "postcode":"2170",
+                    "plaats":"Merksem",
+                    "land":"Belgie"
+                },
+                "telefoon":null,
+                "website":null,
+                "key":"5BVBL500117",
+                "type":5,
+                "guid":"BVBL500117"
+            }
+        ],
+        "bestuur":[
+            {
+                "relGuid":"BVBL616064",
+                "kmGroep":"Bestuur",
+                "kenmerk":"Voorzitter",
+                "naam":"Roger Roels",
+                "telefoon":null,
+                "mobiel":"0474/52.14.21",
+                "email":"roger.roels@antwerpgiants.be"
+            },
+            {
+                "relGuid":"BVBL153122",
+                "kmGroep":"Bestuur",
+                "kenmerk":"Penningmeester",
+                "naam":"Marc Vangeel",
+                "telefoon":null,
+                "mobiel":"0475/73.20.37",
+                "email":"mvangeel@concentra.be"
+            },
+            {
+                "relGuid":"BVBL187912",
+                "kmGroep":"Bestuur",
+                "kenmerk":"Secretaris",
+                "naam":"Ive Simons",
+                "telefoon":"+32476340625",
+                "mobiel":null,
+                "email":"ive.simons@antwerpgiants.be"
+            },
+            {
+                "relGuid":"BVBL639960",
+                "kmGroep":"Bestuur",
+                "kenmerk":"Ondervoorzitter",
+                "naam":"Peter Verbois",
+                "telefoon":null,
+                "mobiel":"0486/13.08.77",
+                "email":"peter.verbois@gmail.com"
+            }
+        ]
+    }
+]

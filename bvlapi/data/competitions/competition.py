@@ -3,8 +3,8 @@
 
 # Contains class used to hold information about a competition.
 
-from bvlapi.api.competitions.standing import CompetitionStanding
-from bvlapi.common.parse import use_fallback_value
+from bvlapi.data.competitions.standing import CompetitionStanding
+from bvlapi.data.parse import use_fallback_value
 
 
 class Competition:

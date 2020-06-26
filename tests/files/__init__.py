@@ -17,7 +17,7 @@ def read_file(filename):
 
 
 # source file of page containing hourly track chart (2020-02-18)
-DETAIL_JSON = read_file("detail.json")
+DETAIL_JSON = read_file("teamDetailByGuid.json")
 
 # example of an img (2020-02-17)
-GAMES_JSON = read_file("games.json")
+GAMES_JSON = read_file("teamMatchesByGuid.json")

@@ -3,7 +3,7 @@
 
 # Contains tests for making API calls.
 
-from bvlapi.common.parse import use_fallback_value
+from bvlapi.data.parse import use_fallback_value
 
 
 @use_fallback_value(7)
