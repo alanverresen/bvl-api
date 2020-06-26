@@ -29,6 +29,18 @@ The following changes are planned to happen in the future:
 - Nothing planned at the moment.
 
 
+0.2.0 - 2020-06-27
+------------------
+
+PROJECT
+~~~~~~~
+- Refactored application significantly for future changes.
+
+ADDED
+~~~~~
+- Added validity checks for GUIDs.
+
+
 0.1.2 - 2020-06-26
 ------------------
 
