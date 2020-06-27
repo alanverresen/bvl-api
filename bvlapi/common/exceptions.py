@@ -38,3 +38,9 @@ class HttpResponseInvalidJSON(BvlApiException):
     """ Raised when HTTP response's body is an invalid JSON response.
     """
     pass
+
+
+class FailedToDownloadFile(BvlApiException):
+    """ Raised when an attempt to download a file fails.
+    """
+    pass
