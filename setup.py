@@ -42,7 +42,7 @@ setup(
 
     name="bvl-api",
     url="https://github.com/alanverresen/bvl-api",
-    version="0.2.0",
+    version="0.2.1",
     python_requires=">=3.6",
     license="MIT",
 
