@@ -10,3 +10,5 @@ from bvlapi.data.competitions import get_competitions       # noqa: F401
 from bvlapi.data.matches import MatchInformation            # noqa: F401
 from bvlapi.data.matches import get_matches                 # noqa: F401
 from bvlapi.data.logos.get import get_club_logo             # noqa: F401
+
+from bvlapi.common.exceptions import *                      # noqa: F401,F403

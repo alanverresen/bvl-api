@@ -1,5 +1,6 @@
+==============================================================================
 Get Information About Competitions
-==================================
+==============================================================================
 
 If you want to retrieve information about a team's competition, you should
 first determine a team's GUID, and then pass it to the following function:

@@ -18,7 +18,7 @@ show information about your basketball club's teams on your website.
    content/user_guide/competitions
    content/user_guide/matches
    content/user_guide/logos
-
+   content/user_guide/exceptions
 
 .. toctree::
    :maxdepth: 1
