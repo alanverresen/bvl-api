@@ -26,7 +26,8 @@ def get_club_logo(club_guid, filepath):
     :param str filepath: filepath of logo image
 
     :raise InvalidGuid: given GUID is not a valid club GUID
-    :raise FailedToDownloadLogo: failed to download an image
+    :raise LogoInvalidFileExtension: invalid file extension was given
+    :raise FailedToGetLogo: failed to provide a logo for club
     """
     if not is_club_guid(club_guid):
         m = "'{}' is not a valid club GUID."
