@@ -29,6 +29,16 @@ The following changes are planned to happen in the future:
 - Nothing planned at the moment.
 
 
+0.2.1 - 2020-06-28
+------------------
+
+ADDED
+~~~~~
+- Added functionality to make HTTP requests for text/bytes/JSON.
+- API calls now use common functionality to make HTTP requests.
+- User-Agent of HTTP requests now inform servers of package's usage.
+
+
 0.2.0 - 2020-06-27
 ------------------
 
