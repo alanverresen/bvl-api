@@ -44,3 +44,15 @@ class FailedToDownloadFile(BvlApiException):
     """ Raised when an attempt to download a file fails.
     """
     pass
+
+
+class FailedToGetLogo(BvlApiException):
+    """ Raised when an attempt to provide a club logo completely fails.
+    """
+    pass
+
+
+class LogoInvalidFileExtension(BvlApiException):
+    """ Raised when trying to save logo as a file with the wrong extension.
+    """
+    pass
