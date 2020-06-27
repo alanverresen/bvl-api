@@ -3,10 +3,9 @@
 
 # Contains function used to make an API call.
 
-import json
-import requests
-
 from bvlapi.common.exceptions import ApiCallFailed
+from bvlapi.common.exceptions import BvlApiException
+from bvlapi.common.http import get_json
 
 
 def call_api(url):
@@ -14,24 +13,13 @@ def call_api(url):
 
     :param str url: URL used to consume API
 
-    :rtype: [dict]
+    :rtype: dict or [dict]
     :return: result of API call as a dictionary
 
     :raise ApiCallFailed: something went wrong while calling API
     """
     try:
-        response = requests.get(url)
-    except requests.exceptions.RequestException as e:
+        return get_json(url)
+    except BvlApiException as e:
         m = "Exceptional situation occurred while using BVL API: {}"
         raise ApiCallFailed(m.format(e))
-    try:
-        response.raise_for_status()
-    except requests.exceptions.HTTPError as e:
-        m = "Exceptional situation occurred while using BVL API: {}"
-        raise ApiCallFailed(m.format(e))
-    try:
-        return json.loads(response.text)
-    except Exception:
-        m = "Exceptional situation occurred while using BVL API: {}"
-        r = "Unable to convert response content to JSON."
-        raise ApiCallFailed(m.format(r))

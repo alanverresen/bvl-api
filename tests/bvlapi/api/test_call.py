@@ -3,67 +3,28 @@
 
 # Contains tests for making API calls.
 
-import pytest
-
 from unittest.mock import patch
-from requests.exceptions import HTTPError
-from requests.exceptions import RequestException
+
+import pytest
 
 from bvlapi.api.call import call_api
 from bvlapi.common.exceptions import ApiCallFailed
+from bvlapi.common.exceptions import BvlApiException
 
 
-class ResponseStub:
-    """ A stub object used to replace the Response returned by requests.get().
+def test__api_call_success():
+    """ Tests that JSON object is returned successfully.
     """
-
-    def __init__(self, text="", bad_status=False):
-        """ Initializes a new instance.
-
-        :param str text: content of HTTP response (JSON string)
-        :param bool bad_status: should exception for bad status code be raised?
-        """
-        self.text = text
-        self.bad_status = bad_status
-
-    def raise_for_status(self):
-        """ Raises an exception when response has a "bad" status code.
-        """
-        if self.bad_status:
-            raise HTTPError()
+    with patch("bvlapi.api.call.get_json") as mock_get:
+        mock_get.return_value = {"success": True}
+        d = call_api("<this is a URL>")
+        assert d["success"]
 
 
-def test__successful_request():
-    """ Executes test where a successful request.
+def test__api_call_failure():
+    """ Tests that exception is raised when API call fails.
     """
-    with patch("bvlapi.api.call.requests.get") as mock_get:
-        mock_get.return_value = ResponseStub(text="{ \"success\": true }")
-        d = call_api("my://url")
-        assert d["success"] is True
-
-
-def test__request_failed():
-    """ Tests that exception is raised when request fails (e.g. times out).
-    """
-    with patch("bvlapi.api.call.requests.get") as mock_get:
-        mock_get.side_effect = RequestException("sth went wrong")
+    with patch("bvlapi.api.call.get_json") as mock_get:
+        mock_get.side_effect = BvlApiException("sth went wrong")
         with pytest.raises(ApiCallFailed):
-            _ = call_api("my://url")
-
-
-def test__bad_status_code():
-    """ Tests that exception is raised when response has bad status code.
-    """
-    with patch("bvlapi.api.call.requests.get") as mock_get:
-        mock_get.return_value = ResponseStub(bad_status=True)
-        with pytest.raises(ApiCallFailed):
-            _ = call_api("my://url")
-
-
-def test__bad_json():
-    """ Tests that exception is raised when response is malformed JSON object.
-    """
-    with patch("bvlapi.api.call.requests.get") as mock_get:
-        mock_get.return_value = ResponseStub(text="{ \"bad JSON")
-        with pytest.raises(ApiCallFailed):
-            _ = call_api("my://url")
+            _ = call_api("<this is a URL>")
