@@ -29,6 +29,14 @@ The following changes are planned to happen in the future:
 - Nothing planned at the moment.
 
 
+0.2.2 - 2020-06-28
+------------------
+
+ADDED
+~~~~~
+- Added functionality to download club logos.
+
+
 0.2.1 - 2020-06-28
 ------------------
 

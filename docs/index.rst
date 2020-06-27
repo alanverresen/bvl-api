@@ -17,6 +17,7 @@ show information about your basketball club's teams on your website.
    content/user_guide/retrieve_guid
    content/user_guide/competitions
    content/user_guide/matches
+   content/user_guide/logos
 
 
 .. toctree::
