@@ -34,3 +34,5 @@ GAMES_JSON = read_file("teamMatchesByGuid.json")
 
 # expected result when no club logo is found
 LOGO_NOT_FOUND_JPG = read_bytes("logo_not_found.jpg")
+
+CLUB_DETAIL_BY_GUID_JSON = read_file("clubDetailByGuid.json")

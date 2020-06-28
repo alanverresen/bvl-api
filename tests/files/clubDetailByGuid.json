@@ -1831,23 +1831,23 @@
         ],
         "website":"www.antwerpgiants.be",
         "adres":{
-            "straat":"Gasthuishoevestraat",
-            "huisNr":"71",
+            "straat":"street",
+            "huisNr":"nr",
             "huisNrToev":null,
-            "postcode":"2170",
-            "plaats":"Merksem",
+            "postcode":"1234",
+            "plaats":"town",
             "land":"België"
         },
-        "email":"ive.simons@antwerpgiants.be",
+        "email":"john.doe@email.com",
         "accomms":[
             {
-                "naam":"Heylen Vastgoed Basketcampus",
+                "naam":"name of place",
                 "adres":{
-                    "straat":"Gasthuishoevestraat ",
-                    "huisNr":"71",
+                    "straat":"street",
+                    "huisNr":"99",
                     "huisNrToev":null,
-                    "postcode":"2170",
-                    "plaats":"Antwerpen",
+                    "postcode":"9999",
+                    "plaats":"town",
                     "land":"BE"
                 },
                 "telefoon":null,
@@ -1855,109 +1855,8 @@
                 "key":"5BVBL600029",
                 "type":5,
                 "guid":"BVBL600029"
-            },
-            {
-                "naam":"Sporthal  Roosendael",
-                "adres":{
-                    "straat":"Speelpleinstraat",
-                    "huisNr":"1",
-                    "huisNrToev":null,
-                    "postcode":"2170",
-                    "plaats":"Merksem",
-                    "land":"Belgie"
-                },
-                "telefoon":null,
-                "website":null,
-                "key":"5BVBL100358",
-                "type":5,
-                "guid":"BVBL100358"
-            },
-            {
-                "naam":"Sporthal Arena",
-                "adres":{
-                    "straat":"Arenaplein",
-                    "huisNr":"1",
-                    "huisNrToev":null,
-                    "postcode":"2100",
-                    "plaats":"Deurne (Antwerpen)",
-                    "land":"Belgie"
-                },
-                "telefoon":null,
-                "website":null,
-                "key":"5BVBL100351",
-                "type":5,
-                "guid":"BVBL100351"
-            },
-            {
-                "naam":"Expohal",
-                "adres":{
-                    "straat":"Frank Craeybecklaan",
-                    "huisNr":"77",
-                    "huisNrToev":null,
-                    "postcode":"2100",
-                    "plaats":"Deurne (Ant)",
-                    "land":"Belgie"
-                },
-                "telefoon":null,
-                "website":null,
-                "key":"5BVBL100350",
-                "type":5,
-                "guid":"BVBL100350"
-            },
-            {
-                "naam":"Lotto Arena",
-                "adres":{
-                    "straat":"Schijnpoortweg",
-                    "huisNr":"119",
-                    "huisNrToev":null,
-                    "postcode":"2170",
-                    "plaats":"Merksem",
-                    "land":"Belgie"
-                },
-                "telefoon":null,
-                "website":null,
-                "key":"5BVBL500117",
-                "type":5,
-                "guid":"BVBL500117"
             }
         ],
-        "bestuur":[
-            {
-                "relGuid":"BVBL616064",
-                "kmGroep":"Bestuur",
-                "kenmerk":"Voorzitter",
-                "naam":"Roger Roels",
-                "telefoon":null,
-                "mobiel":"0474/52.14.21",
-                "email":"roger.roels@antwerpgiants.be"
-            },
-            {
-                "relGuid":"BVBL153122",
-                "kmGroep":"Bestuur",
-                "kenmerk":"Penningmeester",
-                "naam":"Marc Vangeel",
-                "telefoon":null,
-                "mobiel":"0475/73.20.37",
-                "email":"mvangeel@concentra.be"
-            },
-            {
-                "relGuid":"BVBL187912",
-                "kmGroep":"Bestuur",
-                "kenmerk":"Secretaris",
-                "naam":"Ive Simons",
-                "telefoon":"+32476340625",
-                "mobiel":null,
-                "email":"ive.simons@antwerpgiants.be"
-            },
-            {
-                "relGuid":"BVBL639960",
-                "kmGroep":"Bestuur",
-                "kenmerk":"Ondervoorzitter",
-                "naam":"Peter Verbois",
-                "telefoon":null,
-                "mobiel":"0486/13.08.77",
-                "email":"peter.verbois@gmail.com"
-            }
-        ]
+        "bestuur": []
     }
 ]
