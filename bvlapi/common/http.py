@@ -67,7 +67,7 @@ def _get_request(url):
     try:
         response = requests.get(url, headers={
             # Change User-Agent to reflect use of this module.
-            "user-agent": "python/bvl-api/0.2.3",
+            "user-agent": "python/bvl-api/0.2.4",
         })
     except requests.exceptions.RequestException as e:
         msg = "Could not download resource with URL '{}': {}"
