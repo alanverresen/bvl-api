@@ -29,6 +29,22 @@ The following changes are planned to happen in the future:
 - Nothing planned at the moment.
 
 
+0.2.4 - 2020-07-07
+------------------
+
+FIXED
+~~~~~
+- Fixed creation of timezone aware datetime instances to prevent weird offsets.
+
+
+0.2.3 - 2020-06-28
+------------------
+
+FIXED
+~~~~~
+- Fixed and improved online documentation and source code documentation.
+
+
 0.2.2 - 2020-06-28
 ------------------
 
