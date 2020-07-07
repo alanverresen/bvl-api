@@ -43,7 +43,7 @@ def parse_datetime(d):
     """
     yyyy, mm, dd = parse_date(d.get("datumString", ""))
     hrs, mns = parse_time(d.get("beginTijd", ""))
-    return datetime(yyyy, mm, dd, hrs, mns, tzinfo=TIMEZONE)
+    return TIMEZONE.localize(datetime(yyyy, mm, dd, hrs, mns))
 
 
 @use_fallback_value(DEFAULT_DATE)

@@ -31,11 +31,13 @@ def test_get_matches():
         call_mock.return_value = json.loads(GAMES_JSON)
         matches = get_matches("123")
         assert len(matches) == 1
-        assert matches[0].home_team == "Basket Willebroek HSE C"
-        assert matches[0].home_score == 95
-        assert matches[0].visiting_team == "BBC Floorcouture Zoersel HSE A"
-        assert matches[0].visiting_score == 61
-        assert matches[0].datetime == datetime(2019, 10, 5, 18, 15, tzinfo=tz)
-        assert matches[0].location == "Sporthal de Schalk"
-        assert not matches[0].is_forfeit
-        assert matches[0].is_bekermatch
+
+        match = matches[0]
+        assert match.home_team == "Basket Willebroek HSE C"
+        assert match.home_score == 95
+        assert match.visiting_team == "BBC Floorcouture Zoersel HSE A"
+        assert match.visiting_score == 61
+        assert match.datetime == tz.localize(datetime(2019, 10, 5, 18, 15))
+        assert match.location == "Sporthal de Schalk"
+        assert not match.is_forfeit
+        assert match.is_bekermatch
