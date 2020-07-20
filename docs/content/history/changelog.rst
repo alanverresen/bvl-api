@@ -29,6 +29,14 @@ The following changes are planned to happen in the future:
 - Nothing planned at the moment.
 
 
+0.2.5 - 2020-07-21
+------------------
+
+ADDED
+~~~~~
+- Extended results of functionality with GUIDs of teams and clubs.
+
+
 0.2.4 - 2020-07-07
 ------------------
 
