@@ -35,8 +35,12 @@ def test_get_matches():
         match = matches[0]
         assert match.home_team == "Basket Willebroek HSE C"
         assert match.home_score == 95
+        assert match.home_guid_team == "BVBL1173HSE++3"
+        assert match.home_guid_club == "BVBL1173"
         assert match.visiting_team == "BBC Floorcouture Zoersel HSE A"
         assert match.visiting_score == 61
+        assert match.visiting_guid_team == "BVBL1328HSE++1"
+        assert match.visiting_guid_club == "BVBL1328"
         assert match.datetime == tz.localize(datetime(2019, 10, 5, 18, 15))
         assert match.location == "Sporthal de Schalk"
         assert not match.is_forfeit

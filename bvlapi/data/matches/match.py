@@ -18,8 +18,12 @@ class MatchInformation:
     :ivar str location: name of location where match is played
     :ivar str home_team: name of home team
     :ivar int home_score: score of home team
+    :ivar str home_guid_team: GUID of home team
+    :ivar str home_guid_club: GUID of home team's club
     :ivar str visiting_team: name of visiting team
     :ivar int visiting_score: score of visiting team
+    :ivar str visiting_guid_team: GUID of visiting team
+    :ivar str visiting_guid_club: GUID of visiting team's club
     :ivar bool is_forfeit: did one of the team's forfeit the game?
     :ivar bool is_bekermatch: is a cup match?
     """
@@ -32,8 +36,12 @@ class MatchInformation:
         self.location = parse_location(d)
         self.home_team = parse_home(d)
         self.home_score = parse_home_score(d)
+        self.home_guid_club = parse_home_guid_club(d)
+        self.home_guid_team = parse_home_guid_team(d)
         self.visiting_team = parse_visitor(d)
         self.visiting_score = parse_visitor_score(d)
+        self.visiting_guid_club = parse_visitor_guid_club(d)
+        self.visiting_guid_team = parse_visitor_guid_team(d)
         self.is_forfeit = parse_is_forfeit(d)
         self.is_bekermatch = parse_is_bekermatch(d)
 
@@ -113,3 +121,31 @@ def parse_is_bekermatch(d):
     """ Used to parse whether or not a match is a cup match.
     """
     return bool("beker" in d.get("pouleNaam", "").lower())
+
+
+@use_fallback_value("BVBL0000XXX++1")
+def parse_home_guid_team(d):
+    """ Used to parse GUID of team.
+    """
+    return str(d.get("tTGUID", "BVBL0000XXX  1")).replace(" ", "+")
+
+
+@use_fallback_value("BVBL0000")
+def parse_home_guid_club(d):
+    """ Used to parse GUID of club.
+    """
+    return parse_home_guid_team(d)[:-6]
+
+
+@use_fallback_value("BVBL0000XXX++1")
+def parse_visitor_guid_team(d):
+    """ Used to parse GUID of team.
+    """
+    return str(d.get("tUGUID", "BVBL0000XXX  1")).replace(" ", "+")
+
+
+@use_fallback_value("BVBL0000")
+def parse_visitor_guid_club(d):
+    """ Used to parse GUID of club.
+    """
+    return parse_visitor_guid_team(d)[:-6]
