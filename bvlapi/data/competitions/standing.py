@@ -9,8 +9,10 @@ from bvlapi.data.parse import use_fallback_value
 class CompetitionStanding:
     """ Used to hold information about one's standing in a competition.
 
-    :ivar str name: name of team
     :ivar int rank: rank of team within competition
+    :ivar str name: name of team
+    :ivar str guid_team: GUID of team
+    :ivar str guid_club: GUID of club
     :ivar int rank_points: amount of points that determine a team's standing
     :ivar int games_played: amount of games played by team
     :ivar int games_wins: amount of games won by team
@@ -28,6 +30,8 @@ class CompetitionStanding:
         """
         self.rank = parse_rank(r)
         self.name = parse_name(r)
+        self.guid_team = parse_team_guid(r)
+        self.guid_club = parse_club_guid(r)
         self.games_played = parse_games_played(r)
         self.games_wins = parse_games_wins(r)
         self.games_losses = parse_games_losses(r)
@@ -50,6 +54,20 @@ def parse_name(r):
     """ Used to parse the name of a team.
     """
     return str(r.get("naam", ""))
+
+
+@use_fallback_value("BVBL0000XXX++1")
+def parse_team_guid(r):
+    """ Used to parse GUID of team.
+    """
+    return str(r.get("guid", "BVBL0000XXX  1")).replace(" ", "+")
+
+
+@use_fallback_value("BVBL0000")
+def parse_club_guid(r):
+    """ Used to parse GUID of club.
+    """
+    return parse_team_guid(r)[:-6]
 
 
 @use_fallback_value(0)

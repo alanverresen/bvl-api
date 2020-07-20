@@ -43,6 +43,8 @@ def test_get_competitions():
         assert standing_0.points_scored == 281
         assert standing_0.points_conceded == 262
         assert standing_0.comment == ""
+        assert standing_0.guid_club == "BVBL1127"
+        assert standing_0.guid_team == "BVBL1127HSE++2"
 
         standing_3 = competitions[0].standings[3]
         assert standing_3.rank == 4
@@ -55,3 +57,5 @@ def test_get_competitions():
         assert standing_3.points_scored == 249
         assert standing_3.points_conceded == 286
         assert standing_3.comment == ""
+        assert standing_3.guid_club == "BVBL1277"
+        assert standing_3.guid_team == "BVBL1277HSE++1"
