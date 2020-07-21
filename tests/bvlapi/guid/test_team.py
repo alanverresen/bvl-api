@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-# Contains tests for retrieving information about competitions.
+# Contains tests for validating team GUIDs.
 
 from bvlapi.guid.team import is_team_guid
 

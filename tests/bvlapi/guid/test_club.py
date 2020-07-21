@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-# Contains tests for retrieving information about competitions.
+# Contains tests for validating club GUIDs.
 
 from bvlapi.guid.club import is_club_guid
 
