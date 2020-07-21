@@ -26,13 +26,18 @@ def read_bytes(filename):
     return s
 
 
-# source file of page containing hourly track chart (2020-02-18)
-DETAIL_JSON = read_file("teamDetailByGuid.json")
-
-# example of an img (2020-02-17)
-GAMES_JSON = read_file("teamMatchesByGuid.json")
-
-# expected result when no club logo is found
-LOGO_NOT_FOUND_JPG = read_bytes("logo_not_found.jpg")
-
+# Contains representative example of API response when trying to retrieve
+# information about a club.
 CLUB_DETAIL_BY_GUID_JSON = read_file("clubDetailByGuid.json")
+
+
+# Contains representative example of API response when trying to retrieve
+# information about team and its competitions.
+TEAM_DETAIL_BY_GUID_JSON = read_file("teamDetailByGuid.json")
+
+# Contains representative example of API response when trying to retrieve
+# information about team's games.
+TEAM_MATCHES_BY_GUID = read_file("teamMatchesByGuid.json")
+
+# Expected result when a team's logo is not found.
+LOGO_NOT_FOUND_JPG = read_bytes("logo_not_found.jpg")

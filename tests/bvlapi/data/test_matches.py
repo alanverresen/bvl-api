@@ -11,7 +11,7 @@ from unittest.mock import patch
 from bvlapi.data.matches import get_matches
 from bvlapi.data.settings import TIMEZONE as tz
 
-from tests.files import GAMES_JSON
+from tests.files import TEAM_MATCHES_BY_GUID
 
 
 def test_get_matches__empty():
@@ -28,7 +28,7 @@ def test_get_matches():
     """ Try to retrieve and parse information about a team's matches.
     """
     with patch("bvlapi.data.matches.get.get_matches_by_guid") as call_mock:
-        call_mock.return_value = json.loads(GAMES_JSON)
+        call_mock.return_value = json.loads(TEAM_MATCHES_BY_GUID)
         matches = get_matches("123")
         assert len(matches) == 1
 

@@ -9,7 +9,7 @@ from unittest.mock import patch
 
 from bvlapi.data.competitions import get_competitions
 
-from tests.files import DETAIL_JSON
+from tests.files import TEAM_DETAIL_BY_GUID_JSON
 
 
 def test_get_competitions__empty():
@@ -26,7 +26,7 @@ def test_get_competitions():
     """ Try to retrieve and parse information about a team's competition.
     """
     with patch("bvlapi.data.competitions.get.get_detail_by_guid") as call_mock:
-        call_mock.return_value = json.loads(DETAIL_JSON)
+        call_mock.return_value = json.loads(TEAM_DETAIL_BY_GUID_JSON)
         competitions = get_competitions("123")
         assert len(competitions) == 1
         assert competitions[0].name == "Beker van Vlaanderen Heren Poule K"

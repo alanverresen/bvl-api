@@ -29,7 +29,7 @@ The following changes are planned to happen in the future:
 - Nothing planned at the moment.
 
 
-0.2.5 - 2020-07-21
+0.3.0 - 2020-07-21
 ------------------
 
 ADDED
